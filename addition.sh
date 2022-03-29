@@ -6,6 +6,10 @@ case $dice_num in
     ;;
   2) echo "two"
     ;;
+  3) echo "three"
+    ;;
  *) echo "invalid number"
 esac
 
+#new logic
+num1=10
